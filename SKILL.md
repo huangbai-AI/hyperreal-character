@@ -1,6 +1,6 @@
 ---
 name: hyperreal-character
-version: 1.0.0
+version: 1.0.1
 description: 超真实人物生图 + 生视频提示词工作流：按十层图片模板与八段视频模板撰写超写实人物（hyper-realistic portrait）提示词，并通过可灵（Kling）CLI/MCP 完成 text_to_image 生首帧、image_to_video 生情绪视频的两段式生成。触发词：超真实人物、超写实、真人感、皮肤质感、情绪视频、分秒拆解、首帧一致、AI 僵硬感、hyperreal、photorealistic portrait。
 requires: kling-cli skill（可灵官方 CLI skill，负责所有与可灵的实际交互）
 ---

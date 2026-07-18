@@ -19,10 +19,8 @@ cp -r hyperreal-character ~/.claude/skills/hyperreal-character
 
 ## 依赖
 
-- [kling-cli skill](https://skills.sh/klingai-tech/skills)（可灵官方 CLI skill）：
-  `npx skills add klingai-tech/skills`
-- 可灵 CLI：中国区 `npm i -g @klingai/cli-cn`，海外区 `npm i -g @klingai/cli-global`，
-  然后 `kling login`
+- 可灵官方 CLI（`kling` 命令）及其配套 skill：请通过可灵官方渠道安装对应区域的
+  CLI 并完成 `kling login` 登录授权
 
 ## 文件结构
 
